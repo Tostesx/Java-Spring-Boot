@@ -17,5 +17,5 @@ Spring Web
 
 H2 Database
 
-![Build](https://img.shields.io/badge/build-success-brightgreen)
-Maven
+Maven![Build](https://img.shields.io/badge/build-success-brightgreen)
+
