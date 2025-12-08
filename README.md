@@ -1,4 +1,5 @@
-![Build](https://img.shields.io/badge/build-success-brightgreen)
+![License](https://img.shields.io/badge/license-MIT-green)
+
 📦 Produtos API – Spring Boot
 
 API REST simples para cadastro de produtos desenvolvida com Spring Boot.
@@ -16,4 +17,5 @@ Spring Web
 
 H2 Database
 
+![Build](https://img.shields.io/badge/build-success-brightgreen)
 Maven
